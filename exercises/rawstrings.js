@@ -26,5 +26,5 @@ var bridgeString1 = function(myInputString) {
   
   'I wish I could code  in javascript all day, every day!';
 
-  return
+  return 
 };
